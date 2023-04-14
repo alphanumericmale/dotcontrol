@@ -230,3 +230,9 @@ while running:
 
 pygame.quit()
 
+#TODO: prevent WaitTimeoutError 
+#TODO: continually listen but end command when 1 second of no recognisable command words have been said.
+#TODO: when run or walk said to a selected dot, the speed should change to the speed said
+#TODO: command "fire {direction}" fires a rectangle projectile at a speed of 200 time walk speed
+#TODO: help command which displays alist of possible commands
+#TODO: refactor
